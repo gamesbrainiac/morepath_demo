@@ -12,6 +12,6 @@ This will get the Morepath and Reg sources, and other dependencies.
 
 After this you can start up the demo app using::
 
-  $ bin/mpdemo
+  $ bin/morepath_wiki
 
 You can access the app on http://localhost:8080 after this.
